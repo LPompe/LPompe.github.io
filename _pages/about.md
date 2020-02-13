@@ -19,5 +19,5 @@ When I'm not annoying my labmates with my unnecessarily loud typing, I like to c
 
 
 ## Feb. 2020:
-# New release:
-# GridTorch, a Pytorch implementation of a grid-unit neural network, out now!
+### New release:
+#### GridTorch, a Pytorch implementation of a grid-unit neural network, out now!
