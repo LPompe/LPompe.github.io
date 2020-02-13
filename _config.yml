@@ -83,8 +83,8 @@ author:
   name             : "Lucas Pompe"
   avatar           : "profile.png"
   bio              : "Cortical learning, Machine learning, Food, Triathlon, Animals"
-  location         : "Zurich"
-  employer         : "Institute of Neuroinformatics UZH/ETH"
+  location         : 
+  employer         : "Institute of Neuroinformatics, UZH/ETH"
   pubmed           : 
   googlescholar    :
   email            :
