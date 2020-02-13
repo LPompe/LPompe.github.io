@@ -14,11 +14,10 @@ Before coming to Zurich, I completed an Msc. at the school of informatics in Edi
 
 When I'm not annoying my labmates with my unnecessarily loud typing, I like to cook crazy vegan meals, run, ride, swim. Finally, animal rights issues are close to my heart. 
 
----
-permalink: /
-title: "Latest news"
----
 
-### 2020:
+# Latest news
+
+
+## Feb. 2020:
 # New release:
-## GridTorch, a Pytorch implementation of a grid-unit neural network, out now!
+# GridTorch, a Pytorch implementation of a grid-unit neural network, out now!
