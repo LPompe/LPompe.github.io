@@ -16,6 +16,5 @@ When I'm not annoying my labmates with my unnecessarily loud typing, I like to c
 
 
 # Latest news
-## Feb. 2020:
-### New Code Release:
+### 11-02-2020, New Code Release:
 GridTorch, a Pytorch implementation of a grid-unit neural network, out now!
