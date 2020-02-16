@@ -1,12 +1,9 @@
-
 ---
-title: "GridTorch"
-collection: code
-type: "repository"
-permalink: /code/gridtorch
-venue: "School of Informatics, University of Edinburgh"
-date: 2020-02-11
-location: "Edinburgh, Scotland"
+title: 'Code'
+date: 2012-08-14
+permalink: /posts/2012/08/blog-post-1/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
-
-
