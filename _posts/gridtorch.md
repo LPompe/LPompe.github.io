@@ -1,7 +1,7 @@
 ---
 title: 'GridTorch released'
 date: 2020-02-11
-permalink: /posts/gridtorch/
+permalink: /posts/2020/02/gridtorch-released/
 tags:
   - code
   - grid-cells
