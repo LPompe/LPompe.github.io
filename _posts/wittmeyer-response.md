@@ -14,7 +14,7 @@ So why turn vegan? Because I have a moral obligation. I am morally obligated to 
 
 
 
-Would it be okay to torture an animal if that made them taste better? How about if I killed - but didn't eat - a baby pig, because it's fun? What about if either of these scenarios was some sort of [cultural ritual](https://www.theguardian.com/world/2017/dec/11/not-ashamed-dolphin-hunters-of-taiji-break-silence-over-film-the-cove)?
+Would it be okay to [torture an animal](https://patch.com/california/southpasadena/la-leaders-condemn-festivals-where-dogs-are-tortured-killed-millions) if that made them taste better? How about if I killed - but didn't eat - a baby pig, because it's fun? What about if either of these scenarios was some sort of [cultural ritual](https://www.theguardian.com/world/2017/dec/11/not-ashamed-dolphin-hunters-of-taiji-break-silence-over-film-the-cove)?
 Some things are just not okay, and adding them to a menu does not change that.
 
 
